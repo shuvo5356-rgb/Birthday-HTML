@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Leona",
+  "description": "A beautifully animated, interactive birthday gift website with secret letter, custom lock screen, memories timeline, falling flower petals, interactive cake candle blowing, 3D particle heart canvas, and fireworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
